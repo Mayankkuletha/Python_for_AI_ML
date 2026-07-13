@@ -75,10 +75,14 @@
 import math
 # print(math.pi)
 # print(math.e)
-result = 9.9
-print(math.sqrt(result))
-print(math.ceil(result))
-print(math.floor(result))
+# result = 9.9
+# print(math.sqrt(result))
+# print(math.ceil(result))
+# print(math.floor(result))
+
+#there are more functions we will do them later
+x =10
+print(math.sqrt(x))
 
 
 
